@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Nov 27 03:44:56 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=false
+onejar.checkbox=true
+jarname=D\:\\MyServer_fat.jar
+manifest.mergeall=false
+manifest.mainclass=com.pgw.server.MyServer
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<po|\u7A83\u542C\u5668Server>~com/~pgw/~test/
+includes=
